@@ -48,12 +48,11 @@ This assignment will help you practice:
 - It includes starter code and automated tests that will run when you push your changes
 - Clone the repository to your local machine to begin working on the assignment
 
-### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+### Part 1: About Me
+- My name is Mihir, I am a first year HDS student, and I love dogs. 
+- I hope to learn more about using python in analyzing and breaking down larger datasets, with some real world examples. 
+- How to plot various types of graphs and how to condense/work with large datasets. 
+- One of my favorite artists: Beacon (https://music.youtube.com/channel/UC2HwVXniCrysuGGK1VjVYCg?feature=shared) 
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
