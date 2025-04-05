@@ -51,6 +51,7 @@ def main():
     
     email = sys.argv[1]
     hashed = hash_email(email)
+    print(hashed)
     write_hash_to_file(hashed)
 
 if __name__ == "__main__":
