@@ -55,3 +55,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Windows command prompt: PS C:\Users\mihir\OneDrive\Desktop\DataSci223\datasci223-assignment1-MihirUCSF> python "C:\Users\mihir\OneDrive\Desktop\DataSci223\datasci223-assignment1-MihirUCSF\email_hasher.py" "example@email.com"
