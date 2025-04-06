@@ -46,7 +46,7 @@ def main():
     """
     if len(sys.argv) != 2:
         print('Error: must provide valid email address as a command line argument.')
-        print('Usage: python email_hasher.py \"email@example.com"')
+        print('Usage: python email_hasher.py \"mihir.kalyanthaya@ucsf.edu"')
         sys.exit(1)
     
     email = sys.argv[1]
